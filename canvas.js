@@ -1,3 +1,5 @@
+alert("点击空白处任意滑动~")
+
 let canvas = document.getElementById("canvas")
 
 if (canvas.getContext) {
